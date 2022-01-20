@@ -12,7 +12,5 @@ public class Main {
     int b= sc.nextInt();
     int c= a+b;
     System.out.println(c);
-    System.out.println(c);
-    System.out.println(c);
     }
 }
