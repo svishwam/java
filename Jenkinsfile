@@ -16,9 +16,7 @@ pipeline{
 
             steps{
 
-                echo 'pushing the files'
-                cd /home/ubuntu/java
-                sudo git pull
+               echo 'pushing the file'
 
             }
         }
