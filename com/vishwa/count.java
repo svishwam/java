@@ -16,7 +16,5 @@ public class count {
             n=n/10;
         }
         System.out.println(count);
-        System.out.println(count);
-        System.out.println(count);
     }
 }
